@@ -1,0 +1,37 @@
+---
+description: Session handoff discipline. Write HANDOFF.md at session end, read at session start. The cost of writing it is 5 min; losing it costs hours.
+alwaysApply: true
+---
+
+# Session handoff
+
+## At session end
+
+Write HANDOFF.md:
+- What I was doing
+- Where I left off
+- What's done (with file paths)
+- What's NOT done (with next step)
+- Key context not obvious from the diff
+- Open questions
+- Verify commands
+
+## At session start
+
+1. Read HANDOFF.md (don't skip)
+2. Verify "done" is still done
+3. Read context section twice
+4. Plan from "not done"
+5. Update HANDOFF.md as you work
+
+## When
+
+- Sessions > 30 min
+- Before machine switch
+- Before context-clear
+- Before sleep on multi-day work
+
+## Skip
+
+- Sessions < 30 min with no incomplete work
+- One-shot tasks that ship

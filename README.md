@@ -1,6 +1,23 @@
-# Session Handoff Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Session Handoff Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for session handoff discipline. Capture state at session end. Restore context at session start.
+<h1 align="center">Session Handoff Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for session handoff discipline — capture state at session end, restore context at session start, the pickup ritual. The discipline behind the handoff/pickup workflow.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/session-handoff-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/session-handoff-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/session-handoff-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/session-handoff-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/session-handoff-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/session-handoff-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for session handoff discipline. Capture state at session end. Restore context at session start.**
 
 ## The pattern
 
